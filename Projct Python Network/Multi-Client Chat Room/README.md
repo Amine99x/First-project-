@@ -1,10 +1,8 @@
-# First-project-
-Network Programming in Python Project
-
-
+# First-project
+Multi-Client Chat Room
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 ###  1. Server
 - The server listens on `127.0.0.1:59000`.
@@ -23,24 +21,24 @@ Network Programming in Python Project
 - One for **receiving** messages from the server.
 - One for **sending** typed messages to the server.
 
----
 
 ## 💻 Run the App
 
-### 1️⃣ Start the server:
+###  Start the server:
 ```bash
 python server.py
+```
 
+### GitHub
 
+Push to GitHub
 
-## ✅ Step 3: Push to GitHub
+1. Create the GitHub repo (name: `Multi-Client Chat Room`).
 
-1. Create the GitHub repo (name: `chat-room-socket-threading`).
 2. In your terminal:
-
 ```bash
 git init
 git add .
 git commit -m "Done" 
 git push origin main
-
+```
